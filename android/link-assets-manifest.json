@@ -1,0 +1,121 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "App/assets/fonts/AntDesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "App/assets/fonts/Entypo.ttf",
+      "sha1": "47870a67dd50871765f799caa97da87219ee47c5"
+    },
+    {
+      "path": "App/assets/fonts/EvilIcons.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "App/assets/fonts/Feather.ttf",
+      "sha1": "526e03ea68a61c4a67a70b01d7b345eab349767d"
+    },
+    {
+      "path": "App/assets/fonts/FontAwesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "App/assets/fonts/FontAwesome5_Brands.ttf",
+      "sha1": "66c86edfd13e63e0e981ce853335c28bc2d20cec"
+    },
+    {
+      "path": "App/assets/fonts/FontAwesome5_Regular.ttf",
+      "sha1": "00f569f7d8ac2497a43b25dc4d3b32213bcea31b"
+    },
+    {
+      "path": "App/assets/fonts/FontAwesome5_Solid.ttf",
+      "sha1": "ff8f37dfad105796bd924d0db0d37a4ff252618c"
+    },
+    {
+      "path": "App/assets/fonts/Fontisto.ttf",
+      "sha1": "c090a3ec96a3f1bb9b615c2f3f204ce0dcdcdbc3"
+    },
+    {
+      "path": "App/assets/fonts/Foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "App/assets/fonts/Ionicons.ttf",
+      "sha1": "b5281fbfa43129abc3e412dd938cfcf0b77de999"
+    },
+    {
+      "path": "App/assets/fonts/MaterialCommunityIcons.ttf",
+      "sha1": "80a431d6d49861d655009e9491409282d2559591"
+    },
+    {
+      "path": "App/assets/fonts/MaterialIcons.ttf",
+      "sha1": "1943803d652750c8ec60415f1e57401c70e72d25"
+    },
+    {
+      "path": "App/assets/fonts/Octicons.ttf",
+      "sha1": "28875874413503bcc0810ea2a44dc1b8312c665a"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-Black.ttf",
+      "sha1": "467a70eb60fe4e0320174284b72c8f5bfd9112df"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-BlackItalic.ttf",
+      "sha1": "3497ed12182e30499d965ad1d5dc5259fbcac83c"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-Bold.ttf",
+      "sha1": "3b001cf9a3c4bf1176d915e5f154e8c712c582d7"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-BoldItalic.ttf",
+      "sha1": "a61934a5b45096f2575080d82e114d4d1cfe3ba1"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-ExtraBold.ttf",
+      "sha1": "64416e75651e150f68c6ffbdad3bed9f18593e81"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-ExtraBoldItalic.ttf",
+      "sha1": "19035f0a6acba80bda0bc2939a6c097abdbcc42f"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-Italic.ttf",
+      "sha1": "6c91a29e57c7bb357fef68432aaad36f551f2c7d"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-Light.ttf",
+      "sha1": "3b681bad0af19fdd24a1f302a19dcd4df150da89"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-LightItalic.ttf",
+      "sha1": "341c26d1014ba3fd058ad448348ddd501d21e75d"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-Medium.ttf",
+      "sha1": "c91959545dae337c923ad06bfd0ef27f94a97933"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-MediumItalic.ttf",
+      "sha1": "f8d7b93df1aeb1567eaaf13c2ad3fc9f92c2e223"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-Regular.ttf",
+      "sha1": "a7748ad21296101be2698dc585c7194ed43385ea"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-SemiBold.ttf",
+      "sha1": "6c52238fe8c885c62b5a92520557066d1e1279eb"
+    },
+    {
+      "path": "App/assets/fonts/Rubik-SemiBoldItalic.ttf",
+      "sha1": "f47a6630a86eb4c5a6d0fe64fe8f4f0d260a0f47"
+    },
+    {
+      "path": "App/assets/fonts/Zocial.ttf",
+      "sha1": "0bda59c7bcd3d3927de047e091875a4428bfd1ab"
+    }
+  ]
+}

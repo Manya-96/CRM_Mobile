@@ -1,0 +1,13 @@
+export { default as Splash } from './splash';
+export { default as Login } from './login';
+export { default as Register } from './register';
+export { default as SideDrawer } from './sideDrawer';
+export { default as Dashboard } from './dashboard';
+export { default as Deposit } from './deposit';
+export { default as Withdraw } from './withdraw';
+export { default as TradingInfo } from './tradingInfo';
+export { default as Transactions } from './transactions';
+export { default as TwoFactor } from './two-factor';
+export { default as Documents } from './documents';
+export { default as ForgotPassword } from './forgotPassword';
+export { default as CountryList } from './countryList';
